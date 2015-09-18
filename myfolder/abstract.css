@@ -1,53 +1,46 @@
 #red {
-    color: purple;
+    color: #5f00f6;
     font-family: cursive;
-    font-size: 23px;
-}
+    font-size: 23px;}
 
 #orange {
-    color: DarkCyan;
+    color: #0029f6;
     font-family: Arial, sans-serif;
-    font-size: 20px;
-}
+    font-size: 20px;}
 
 #yellow {
-    color: skyblue;
+    color: DarkCyan;
     font-family: Garamond;
-    font-size: 15px;
-}
+    font-size: 15px;}
 
 
 #G {
-    color: #fb9f13;
+    color: #00f0f6;
     font-family: monospace;
-    font-size: 13px;
-}
+    font-size: 13px;}
 
 #B {
-    color: rgba(255,192,203, 0.8);
+    color: #e8ff2d;
     font-family: Univers;
-    font-size: 10px;
-}
+    font-size: 10px;}
 
 #DB {
-    color: black;
+    color: #ffb72d;
     font-family: fantasy;
-    font-size: 8px;
-}
+    font-size: 8px;}
 
 #P {
     color: #ffc0cb;
     font-family: monospace;
-    font-size: 7px;
-}
+    font-size: 7px;}
+    
 #grey {
     background-color: white;
     color: red;
     font-family: fantasy;
-    font-size: 30px;
-}
+    font-size: 30px;}
 
 #black {
     font-family: cursive;
+    font-size: 50px;
 }
-

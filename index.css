@@ -1,11 +1,13 @@
 h1 {
     background-color: #ffc0cb;
     height: 300px;
-    width:960px;
-}
+    width:1000px;}
+    
+div {
+  margin: 50px;}
 
 #HYJK {
-    background-color: #ffc0cb;
+    background-color: #5f00f6;
     font-family: monospace;
     font-size: 100px;
     font-weight: bold;

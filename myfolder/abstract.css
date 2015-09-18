@@ -7,12 +7,16 @@ div {
 #red {
     color: #5f00f6;
     font-family: cursive;
-    font-size: 23px;}
+    font-size: 23px;
+    text-align: center;
+}
 
 #orange {
     color: #0029f6;
     font-family: Arial, sans-serif;
-    font-size: 20px;}
+    font-size: 20px;
+    text-align: center;
+}
 
 #yellow {
     color: DarkCyan;

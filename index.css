@@ -1,7 +1,10 @@
 h1 {
     background-color: #ffc0cb;
-    height: 300px;
-    width:1000px;}
+    height:500px;
+    width:500px;
+    border-radius:500px;
+    position:center;
+}
     
 div {
   margin: 50px;}
@@ -11,5 +14,6 @@ div {
     font-family: monospace;
     font-size: 100px;
     font-weight: bold;
-    text-align: center}
+    text-align: center;
+}
     

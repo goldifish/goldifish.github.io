@@ -7,15 +7,16 @@ h1 {
     -webkit-border-radious: 200px;
     position: center;
     margin-left: 300px;
+    margin-bottom: 200px;
 }
     
 div {
   margin: 20px;}
 
-#HYJK {
+.HYJK {
     background-color: #5f00f6;
     font-family: monospace;
-    font-size: 200px;
+    font-size: 30px;
     font-weight: bold;
     text-align: center;
 }

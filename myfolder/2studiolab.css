@@ -1,0 +1,35 @@
+.Haley{
+    font-family: monospace;
+    font-size: 200px;
+    margin-left: 200px
+}
+
+.studio {
+    font-family: monospace;
+    font-size: 30px;
+    text-align: center;
+    background-color: #a2acf6;
+    height:300px;
+    width:300px;
+    border-radius:300px;
+    -moz-border-radious: 500px;
+    -webkit-border-radious: 500px;
+    margin-left: 200px;
+}
+.lab {
+    font-family: monospace;
+    font-size: 30px;
+    text-align: center;
+    background-color: #d7b3f6;
+    height:300px;
+    width:300px;
+    border-radius:300px;
+    -moz-border-radious: 500px;
+    -webkit-border-radious: 500px;
+    position: center;
+    margin-left: 400px;
+}
+
+    
+div {
+  margin: 20px;}

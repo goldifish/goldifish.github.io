@@ -1,7 +1,7 @@
 .Haley{
     font-family: monospace;
-    font-size: 200px;
-    margin-left: 200px
+    font-size: 70px;
+    text-align: center;
 }
 
 .studio {
@@ -15,7 +15,8 @@
     border-radius:300px;
     -moz-border-radious: 500px;
     -webkit-border-radious: 500px;
-    margin-left: 200px;
+    position: center;
+    margin-left: 330px;
 }
 .lab {
     font-family: monospace;

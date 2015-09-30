@@ -3,3 +3,17 @@
     font-size: 70px;
     text-align: center;
 }
+.lab{
+    font-family: monospace;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    background-color: #d7b3f6;
+    height:300px;
+    width:300px;
+    border-radius:300px;
+    -moz-border-radious: 500px;
+    -webkit-border-radious: 500px;
+    position: center;
+    margin-left: 400px;
+}

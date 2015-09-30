@@ -5,9 +5,17 @@
 }
 
 .studio{
-   font-family: monospace;
+    font-family: monospace;
     font-size: 30px;
     text-align: center;
     font-weight: bold;
+    background-color: #a2acf6;
+    height:300px;
+    width:300px;
+    border-radius:300px;
+    -moz-border-radious: 500px;
+    -webkit-border-radious: 500px;
+    position: center;
+    margin-left: 330px;
 }
 

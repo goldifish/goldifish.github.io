@@ -1,30 +1,44 @@
 .cabinet{
     font-family: monospace;
-    font-size: 200px;
+    font-size: 30px;
     text-align: center;
 }
+
 .medicine{
-    margin-left:600px;
+    margin-left:620px;
     margin-top: 30px;
+    position: absolute;
+    top:50%
+    left:50%;
 }
 .bottle{
     margin-left: 340px;
 }
+
 .circle{
     margin: 500px;
 }
+
 .div{
     margin: 170px;
 }
+
 .ointment{
-    margin: 120px;
+    margin: 90px;
 }
+
 .vitamin{
     margin:190px;
 }
+
 .band{
     margin-left:400px;
 }
+
 .brown{
-    margin: 290px;
+    margin: 300px;
 }
+.temperature{
+    margin: 670px;
+}
+

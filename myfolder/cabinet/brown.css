@@ -1,7 +1,10 @@
 .cabinet{
     font-family: monospace;
     font-size: 30px;
-    text-align: center;
+}
+h1{
+    left:46%;
+    position:fixed;
 }
 
 .medicine{
@@ -21,10 +24,13 @@
     position:fixed;
     top:500px;
     left:100px;
+    transition:1s ease;
 }
 .bottle:hover{
     background-image:url(s_bottle.gif);
-    background-size:100px 160px;
+    background-size:130px 190px;
+    width:130px;
+    height:190px;
 }
 
 .circle{
@@ -35,10 +41,13 @@
     position:fixed;
     top:120px;
     left: 230px;
+    transition:1s ease;
 }
 .circle:hover{
     background-image:url(r_circle.gif);
-    background-size:90px 140px;
+    background-size:100px 150px;
+    width:100px;
+    height:150px;
 }
 
 .capsule{
@@ -51,11 +60,14 @@
     top:-20px;
     left: 980px;
     bottom:0px;
+    transition:1s ease;
 }
 
 .capsule:hover{
     background-image:url(s_capsule.gif);
-    background-size:160px 80px;
+    background-size:180px 100px;
+    width:180px ;
+    height: 100px;
 }
 
 .ointment{
@@ -66,11 +78,14 @@
     position:fixed;
     top:590px;
     left:400px;
+    transition:1s ease;
 }
 
 .ointment:hover{
     background-image:url(r_ointment.gif);
-    background-size:200px 170px;
+    background-size:240px 210px;
+    width:240px;
+    height:210px;
 }
 
 
@@ -82,18 +97,21 @@
     position:fixed;
     top:370px;
     left:380px;
+    transition:1s ease;
 }
 .bandage:hover{  
     background-image:url(s_band.gif);
-    background-size:100px 100px;
+    background-size:130px 130px;
+    width:130px;
+    height:130px;
 }
 
 
 .brown{
-    width: 100px;
-    height:150px;
+    width: 120px;
+    height:170px;
     background-image:url(s_brown.gif);
-    background-size:100px 150px;
+    background-size:120px 170px;
     position:fixed;
     top:270px;
     right:390px;
@@ -106,10 +124,13 @@
     position:fixed;
     top:430px;
     right:100px;
+    transition:1s ease;
 }
 .temperature:hover{
     background-image:url(r_temperature.gif);
-    background-size:75px 160px;
+    background-size:95px 180px;
+    width:95px;
+    height:180px;
 }
 
 

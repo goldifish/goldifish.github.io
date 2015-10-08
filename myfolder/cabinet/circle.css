@@ -1,6 +1,4 @@
 .cabinet{
-    
-    position:fixed;
     font-family: monospace;
     font-size: 30px;
     text-align: center;
@@ -72,20 +70,6 @@
     background-size:200px 170px;
 }
 
-
-.vitamin{
-    width:80px;
-    height:80px;
-    background-image:url(opng/p_lemon.png);
-    background-size:80px 80px;
-    position:fixed;
-    top:600px;
-    left:990px;
-}
-.vitamin:hover{
-    background-image:url(r_vc.gif);
-    background-size:80px 80px;
-}
 
 .bandage{    
     width:100px;

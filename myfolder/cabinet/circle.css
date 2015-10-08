@@ -1,11 +1,13 @@
 .cabinet{
+    
+    position:fixed;
     font-family: monospace;
     font-size: 30px;
     text-align: center;
 }
 
 .medicine{
-    position: absolute;
+    position: fixed;
     width: 250px;
     height:250px;
     top: 50%;
@@ -18,7 +20,7 @@
     height:160px;
     background-image:url(opng/p_bottle.png);
     background-size:100px 160px;
-    position:absolute;
+    position:fixed;
     top:500px;
     left:100px;
 }
@@ -32,7 +34,7 @@
     height:140px;
     background-image:url(opng/p_circle.png);
     background-size:90px 140px;
-    position:absolute;
+    position:fixed;
     top:120px;
     left: 230px;
 }
@@ -47,7 +49,7 @@
     margin: 170px;
     background-image:url(opng/p_capsule.png);
     background-size:160px 80px;
-    position: absolute;
+    position:fixed;
     top:-20px;
     left: 980px;
     bottom:0px;
@@ -63,7 +65,7 @@
     height:170px;
     background-image:url(opng/p_ointment.png);
     background-size:200px 170px;
-    position:absolute;
+    position:fixed;
     top:590px;
     left:400px;
 }
@@ -79,7 +81,7 @@
     height:80px;
     background-image:url(opng/p_lemon.png);
     background-size:80px 80px;
-    position:absolute;
+    position:fixed;
     top:600px;
     left:990px;
 }
@@ -93,7 +95,7 @@
     height:100px;
     background-image:url(opng/p_bandage.png);
     background-size:100px 100px;
-    position:absolute;
+    position:fixed;
     top:370px;
     left:380px;
 }
@@ -108,7 +110,7 @@
     height:150px;
     background-image:url(opng/p_brown.png);
     background-size:100px 150px;
-    position:absolute;
+    position:fixed;
     top:270px;
     right:390px;
 }
@@ -121,12 +123,99 @@
     height:160px;
     background-image:url(opng/p_temperature.png);
     background-size:75px 160px;
-    position:absolute;
+    position:fixed;
     top:430px;
     right:100px;
 }
 .temperature:hover{
     background-image:url(r_temperature.gif);
     background-size:75px 160px;
+}
+
+
+
+
+.bottle3{
+    position:absolute;
+    top:770px;
+    left:390px;
+}
+.bottle3:hover{
+    left:470;
+}
+.bottle8{
+    position:absolute;
+    top:808px;
+    left:704px;
+}
+.bottle9{
+    position:absolute;
+    width:300px;
+    top:1086px;
+    left:379px;
+}
+.bottle10{
+    position:absolute;
+    top:1125px;
+    left:679px;
+}
+
+
+.bottle5{
+    position:absolute;
+    top:1670px;
+    left:997px;
+}
+.bottle11{
+    position:absolute;
+    width:383px;
+    top:1915px;
+    left:925px;
+}
+
+.bottle4{
+    position:absolute;
+    top:1915px;
+    left:925px;
+}
+.bottle6{
+    position:absolute;
+    top:1915px;
+    left:925px;
+}
+.bottle7{
+    position:absolute;
+    top:1915px;
+    left:925px;
+}
+.bottle2{
+    position:absolute;
+    top:1915px;
+    left:925px;
+}
+.bottle1{
+    position:absolute;
+    top:1915px;
+    left:925px;
+}
+.bottle15{
+    position:absolute;
+    top:1915px;
+    left:925px;
+}
+.bottle12{
+    position:absolute;
+    top:1915px;
+    left:925px;
+}
+.bottle14{
+    position:absolute;
+    top:1915px;
+    left:925px;
+}
+.bottle13{
+    position:absolute;
+    top:1915px;
+    left:925px;
 }
 

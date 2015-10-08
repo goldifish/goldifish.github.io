@@ -63,18 +63,12 @@
 .ointment{
     width:200px;
     height:170px;
-    background-image:url(opng/p_ointment.png);
+    background-image:url(r_ointment.gif);
     background-size:200px 170px;
     position:fixed;
     top:590px;
     left:400px;
 }
-
-.ointment:hover{
-    background-image:url(r_ointment.gif);
-    background-size:200px 170px;
-}
-
 
 .vitamin{
     width:80px;

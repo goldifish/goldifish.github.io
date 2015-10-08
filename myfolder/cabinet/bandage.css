@@ -1,5 +1,4 @@
 .cabinet{
-    
     position:fixed;
     font-family: monospace;
     font-size: 30px;
@@ -76,32 +75,14 @@
 }
 
 
-.vitamin{
-    width:80px;
-    height:80px;
-    background-image:url(opng/p_lemon.png);
-    background-size:80px 80px;
-    position:fixed;
-    top:600px;
-    left:990px;
-}
-.vitamin:hover{
-    background-image:url(r_vc.gif);
-    background-size:80px 80px;
-}
-
 .bandage{    
     width:100px;
     height:100px;
-    background-image:url(opng/p_bandage.png);
+    background-image:url(opng/s_band.gif);
     background-size:100px 100px;
     position:fixed;
     top:370px;
     left:380px;
-}
-.bandage:hover{  
-    background-image:url(s_band.gif);
-    background-size:100px 100px;
 }
 
 

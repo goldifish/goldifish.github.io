@@ -32,16 +32,13 @@
 .circle{
     width:90px;
     height:140px;
-    background-image:url(opng/p_circle.png);
+    background-image:url(r_circle.gif);
     background-size:90px 140px;
     position:fixed;
     top:120px;
     left: 230px;
 }
-.circle:hover{
-    background-image:url(r_circle.gif);
-    background-size:90px 140px;
-}
+
 
 .capsule{
     width:160px;

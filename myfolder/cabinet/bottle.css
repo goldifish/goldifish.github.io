@@ -18,15 +18,11 @@
 .bottle{
     width:100px;
     height:160px;
-    background-image:url(opng/p_bottle.png);
+    background-image:url(s_bottle.gif);
     background-size:100px 160px;
     position:fixed;
     top:500px;
     left:100px;
-}
-.bottle:hover{
-    background-image:url(s_bottle.gif);
-    background-size:100px 160px;
 }
 
 .circle{

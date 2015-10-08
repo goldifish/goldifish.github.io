@@ -1,6 +1,4 @@
 .cabinet{
-    
-    position:fixed;
     font-family: monospace;
     font-size: 30px;
     text-align: center;
@@ -106,17 +104,12 @@
 .temperature{
     width:75px;
     height:160px;
-    background-image:url(opng/p_temperature.png);
+    background-image:url(r_temperature.gif);
     background-size:75px 160px;
     position:fixed;
     top:430px;
     right:100px;
 }
-.temperature:hover{
-    background-image:url(r_temperature.gif);
-    background-size:75px 160px;
-}
-
 
 
 .temperature7{

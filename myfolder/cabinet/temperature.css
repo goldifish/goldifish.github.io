@@ -129,6 +129,22 @@ h1{
     position:fixed;
     top:430px;
     right:100px;
+    
+           animation:3s;
+    
+    -webkit-animation: mymove 4s infinite; /* Chrome, Safari, Opera */
+    animation: mymove 4s infinite;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes mymove {
+    from {top: 430px;}
+    to {top: 470px;}
+}
+
+@keyframes mymove {
+    from {top: 430px;}
+    to {top: 470px;}
 }
 
 

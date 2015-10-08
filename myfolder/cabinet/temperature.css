@@ -75,21 +75,6 @@
     background-size:200px 170px;
 }
 
-
-.vitamin{
-    width:80px;
-    height:80px;
-    background-image:url(opng/p_lemon.png);
-    background-size:80px 80px;
-    position:fixed;
-    top:600px;
-    left:990px;
-}
-.vitamin:hover{
-    background-image:url(r_vc.gif);
-    background-size:80px 80px;
-}
-
 .bandage{    
     width:100px;
     height:100px;
@@ -134,110 +119,57 @@
 
 
 
-.capsule11{
-    position:absolute;
-    width: 200px;
-    top:180px;
-    left:320px;
-}
-
-.capsule15{
-    position:absolute;
-    width:300px;
+.temperature7{
+    position: absolute;
+    width:250px;
     top:140px;
-    left:520px;
+    left:455px;
 }
-.capsule3{
-    position:absolute;
-    width:100px;
-    top:381px;
-    left:450px;
+.temperature5{
+    position: absolute;
+    width:250px;
+    top:270px;
+    left:705px;
 }
-.capsule2{
-    position:absolute;
-    width:450px;
-    top:318px;
-    left:550px;
+.temperature6{
+    position: absolute;
+    width:250px;
+    top:435px;
+    left:410px;
 }
-
-
-.capsule1{
-    position:absolute;
-    width:280px;
-    top:380px;
-    left:844px;
+.temperature8{
+    position: absolute;
+    width:250px;
+    top:473px;
+    left:660px;
 }
 
-.capsule12{
+
+
+
+
+
+.temperature2{
     position:absolute;
     width:200px;
-    top:599px;
-    left:333px;
+    top:1400px;
+    left:515px;
 }
-.capsule5{
+.temperature1{
     position:absolute;
-    width:311px;
-    top:636px;
-    left:533px;
+    width:250px;
+    top:1438px;
+    left:715px;
 }
-
-
-
-
-
-.capsule10{
+.temperature4{
     position:absolute;
-    width:300px;
-    top:1660px;
-    left:280px;
+    width:280px;
+    top:1653px;
+    left:400px;
 }
-
-.capsule6{
+.temperature3{
     position:absolute;
-    width:300px;
-    top:1626px;
-    left:580px;
-}
-.capsule13{
-    position:absolute;
-    width:300px;
-    top:1585px;
-    left:880px;
-}
-
-.capsule14{
-    position:absolute;
-    width:300px;
-    top:1901px;
-    left:160px;
-}
-.capsule4{
-    position:absolute;
-    width:300px;
-    top:1867px;
-    left:450px;
-}
-.capsule16{
-    position:absolute;
-    width:400px;
-    top:1826px;
-    left:750px;
-}
-.capsule9{
-    position:absolute;
-    width:350px;
-    top:2090px;
-    left:110px;
-}
-.capsule7{
-    position:absolute;
-    width:350px;
-    top:2140px;
-    left:460px;
-}
-.capsule8{
-    position:absolute;
-    width:510px;
-    top:2080px;
-    left:810px;
+    width:320px;
+    top:1725px;
+    left:680px;
 }

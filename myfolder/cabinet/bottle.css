@@ -138,7 +138,7 @@
 .bottle3{
     position:absolute;
     top:140px;
-    left:390px;
+    left:406px;
 }
 .bottle3:hover{
     left:470;
@@ -146,7 +146,7 @@
 .bottle8{
     position:absolute;
     top:178px;
-    left:704px;
+    left:720px;
 }
 .bottle9{
     position:absolute;
@@ -161,61 +161,64 @@
 }
 
 
-.bottle5{
+
+    .bottle5{
     position:absolute;
-    top:1590px;
-    left:997px;
-}
-.bottle11{
+    top:1480px;
+    left:567px;
+    }
+    .bottle11{
     position:absolute;
     width:383px;
-    top:1835px;
-    left:925px;
-}
+    top:1725px;
+    left:496px;
+    }
+
+
 
 .bottle4{
     position:absolute;
-    top:1915px;
-    left:925px;
+    top:2620px;
+    left:365px;
 }
 .bottle6{
     position:absolute;
-    top:1915px;
-    left:925px;
+    top:2660px;
+    left:593px;
 }
 .bottle7{
     position:absolute;
-    top:1915px;
-    left:925px;
+    top:2630px;
+    left:821px;
 }
 .bottle2{
     position:absolute;
-    top:1915px;
-    left:925px;
+    top:2890px;
+    left:391px;
 }
 .bottle1{
     position:absolute;
-    top:1915px;
-    left:925px;
+    top:2920px;
+    left:614px;
 }
 .bottle15{
     position:absolute;
-    top:1915px;
-    left:925px;
+    top:2920px;
+    left:841px;
 }
 .bottle12{
     position:absolute;
-    top:1915px;
-    left:925px;
+    top:3137px;
+    left:372px;
 }
 .bottle14{
     position:absolute;
-    top:1915px;
-    left:925px;
+    top:3166px;
+    left:832px;
 }
 .bottle13{
     position:absolute;
-    top:1915px;
-    left:925px;
+    top:3161px;
+    left:605px;
 }
 

@@ -134,88 +134,114 @@
 
 
 
+.circle5{
+    position:absolute;
+    width:230px;
+    top:219px;
+    left:572px;
+}
 
-.bottle3{
+.circle4{
     position:absolute;
-    top:770px;
-    left:390px;
+    width:400px;
+    top:180px;
+    left:801px;
 }
-.bottle3:hover{
-    left:470;
-}
-.bottle8{
+.circle14{
     position:absolute;
-    top:808px;
-    left:704px;
+    width:250px;
+    top:328px;
+    left:1201px;
 }
-.bottle9{
+.circle6{
     position:absolute;
     width:300px;
-    top:1086px;
-    left:379px;
+    top:500px;
+    left:441px;
 }
-.bottle10{
+.circle11{
     position:absolute;
-    top:1125px;
-    left:679px;
+    width:290px;
+    top:600px;
+    left:741px;
+}
+.circle3{
+    position:absolute;
+    width:210px;
+    top:600px;
+    left:1031px;
+}
+.circle9{
+    position:absolute;
+    width:250px;
+    top:850px;
+    left:555px;
+}
+.circle12{
+    position:absolute;
+    width:270px;
+    top:876px;
+    left:804px;
+}
+.circle13{
+    position:absolute;
+    width:260px;
+    top:842px;
+    left:1074px;
 }
 
 
-.bottle5{
+.circle10{
     position:absolute;
-    top:1670px;
-    left:997px;
+    width:300px;
+    top:2090px;
+    left:560px;
 }
-.bottle11{
+.circle7{
     position:absolute;
-    width:383px;
-    top:1915px;
-    left:925px;
+    width:200px;
+    top:2195px;
+    left:860px;
 }
-
-.bottle4{
+.circle2{
     position:absolute;
-    top:1915px;
-    left:925px;
+    width:280px;
+    top:2108px;
+    left:1060px;
 }
-.bottle6{
+.circle17{
     position:absolute;
-    top:1915px;
-    left:925px;
+    width:300px;
+    top:2390px;
+    left:500px;
 }
-.bottle7{
+.circle15{
     position:absolute;
-    top:1915px;
-    left:925px;
+    width:230px;
+    top:2413px;
+    left:800px;
 }
-.bottle2{
+.circle1{
     position:absolute;
-    top:1915px;
-    left:925px;
+    width:280px;
+    top:2338px;
+    left:990px;
 }
-.bottle1{
+.circle18{
     position:absolute;
-    top:1915px;
-    left:925px;
+    width:220px;
+    top:2572px;
+    left:602px;
 }
-.bottle15{
+.circle16{
     position:absolute;
-    top:1915px;
-    left:925px;
+    width:180px;
+    top:2644px;
+    left:822px;
 }
-.bottle12{
+.circle8{
     position:absolute;
-    top:1915px;
-    left:925px;
+    width:260px;
+    top:2705px;
+    left:1003px;
 }
-.bottle14{
-    position:absolute;
-    top:1915px;
-    left:925px;
-}
-.bottle13{
-    position:absolute;
-    top:1915px;
-    left:925px;
-}
-

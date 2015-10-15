@@ -1,0 +1,135 @@
+h1{
+	font-family: monospace;
+	font-size: 18px;
+	display: inline-block;
+}
+.title{
+	position: fixed;
+	left:20px;
+	top:20px;
+}
+.year{
+	position: fixed;
+	top:40px;
+	left:20px;
+}
+
+
+.kjj{
+    position:absolute;
+    top: 50%;
+    left: 10%;
+    transform: translate(-50%, -50%); 
+    vertical-align: middle;
+}
+.kjj1{
+    font-family:monospace;
+    position: fixed;
+    top:80%;
+    transform: translateY(-50%, -50%);
+    height:100px;
+    width:100%;
+    overflow-x:auto;
+    overflow-y:hidden;
+    white-space: nowrap;
+    transition: .5s;
+}
+
+.kjj1:hover{
+    transition:.5s;
+	-webkit-transition: opacity 0.5s ease;
+    -moz-transition: opacity 0.5s ease;
+    -o-transition: opacity 0.5s ease;
+    -ms-transition: opacity 0.5s ease;
+    opacity:0.0;
+    top:80%;
+    display: block;
+    position: fixed;
+    color: black;
+}
+
+.kjj1:hover .kjj1{
+	opacity:1.0;
+    position:fixed;
+    text-align: left;
+}
+
+
+
+.co{
+    position:absolute;
+    top: 50%;
+    left:15%;
+    transform: translate(-50%, -50%); 
+    vertical-align: middle;
+}
+.ndq{
+    position:absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%); 
+    vertical-align: middle;
+}
+.pjad{
+    position:absolute;
+    top: 50%;
+    left: 25%;
+    transform: translate(-50%, -50%); 
+    vertical-align: middle;
+}
+.jx{
+    position:absolute;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    vertical-align: middle;
+}
+.mb{
+    position:absolute;
+    top: 50%;
+    left: 35%;
+    transform: translate(-50%, -50%); 
+    vertical-align: middle;
+}
+.nm{
+    position:absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    vertical-align: middle;
+}
+.lt{
+    position:absolute;
+    top: 50%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    vertical-align: middle;
+}
+.ph{
+    position:absolute;
+    top: 50%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    vertical-align: middle;
+}
+.lm{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    vertical-align: middle;
+}
+.yjk{
+    position:absolute;
+    top: 50%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    vertical-align: middle;
+}
+.ch{
+    position:absolute;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    vertical-align: middle;
+}

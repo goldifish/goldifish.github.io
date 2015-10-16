@@ -12,13 +12,7 @@
 	top:75px;
 	left:50px;
 }
-.title2{    
-    font-family:monospace;
-    font-size:30px;
-	position: fixed;
-	top:115px;
-	left:50px;
-}
+
 
 
 .kjj{
@@ -431,7 +425,7 @@
 }
 .lm:hover{
     width:36px;
-    height:270px;
+    height:275px;
 	opacity:0.0;
     position:absolute;
     vertical-align:middle;
@@ -474,7 +468,7 @@
 }
 .yjk:hover{
     width:36px;
-    height:300px;
+    height:305px;
 	opacity:0.0;
     position:absolute;
     vertical-align:middle;
@@ -490,7 +484,7 @@
     font-size: 13px;
     font-family:monospace;
     position: absolute;
-    top:555px;
+    top:560px;
     left:940px;
     transform: translateY(-50%, -50%);
 }    
@@ -517,7 +511,7 @@
 }
 .ch:hover{
     width:36px;
-    height:340px;
+    height:350px;
 	opacity:0.0;
     position:absolute;
     vertical-align:middle;
@@ -533,7 +527,7 @@
     font-size: 13px;
     font-family:monospace;
     position: absolute;
-    top:110px;
+    top:105px;
     left:1000px;
     transform: translateY(-50%, -50%);
 }    

@@ -1,0 +1,55 @@
+.slideshow {
+    width: 500px;
+    height: 700px;
+    margin: 0 auto;
+    -webkit-animation-name: intro; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 5s; /* Chrome, Safari, Opera */
+    animation-name: intro;
+    animation-duration: 5s;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes intro {
+    0%   {background-image: url(intro_001.jpg);}
+    5%   {background-image: url(intro_002.jpg);}
+    10%  {background-image: url(intro_003.jpg);}
+    15%  {background-image: url(intro_004.jpg);}
+    20%  {background-image: url(intro_005.jpg);}
+    25%  {background-image: url(intro_006.jpg);}
+    30%  {background-image: url(intro_007.jpg);}
+    35%  {background-image: url(intro_008.jpg);}
+    40%  {background-image: url(intro_009.jpg);}
+    45%  {background-image: url(intro_010.jpg);}
+    50%  {background-image: url(intro_011.jpg);}
+    55%  {background-image: url(intro_012.jpg);}
+    60%  {background-image: url(intro_013.jpg);}
+    65%  {background-image: url(intro_014.jpg);}
+    70%  {background-image: url(intro_015.jpg);}
+    75%  {background-image: url(intro_016.jpg);}
+    80%  {background-image: url(intro_017.jpg);}
+    85%  {background-image: url(intro_018.jpg);}
+    90%  {background-image: url(intro_019.jpg);}
+}
+
+/* Standard syntax */
+@keyframes intro {
+    0%   {background-image: url(intro_001.jpg);}
+    5%   {background-image: url(intro_002.jpg);}
+    10%  {background-image: url(intro_003.jpg);}
+    15%  {background-image: url(intro_004.jpg);}
+    20%  {background-image: url(intro_005.jpg);}
+    25%  {background-image: url(intro_006.jpg);}
+    30%  {background-image: url(intro_007.jpg);}
+    35%  {background-image: url(intro_008.jpg);}
+    40%  {background-image: url(intro_009.jpg);}
+    45%  {background-image: url(intro_010.jpg);}
+    50%  {background-image: url(intro_011.jpg);}
+    55%  {background-image: url(intro_012.jpg);}
+    60%  {background-image: url(intro_013.jpg);}
+    65%  {background-image: url(intro_014.jpg);}
+    70%  {background-image: url(intro_015.jpg);}
+    75%  {background-image: url(intro_016.jpg);}
+    80%  {background-image: url(intro_017.jpg);}
+    85%  {background-image: url(intro_018.jpg);}
+    90%  {background-image: url(intro_019.jpg);}
+}

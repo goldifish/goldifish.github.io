@@ -4,9 +4,9 @@
     margin: 0 auto;
     margin-top: 50px;
     -webkit-animation-name: intro; /* Chrome, Safari, Opera */
-    -webkit-animation-duration: 8s; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 10s; /* Chrome, Safari, Opera */
     animation-name: intro;
-    animation-duration: 8s;
+    animation-duration: 10s;
 }
 
 /* Chrome, Safari, Opera */

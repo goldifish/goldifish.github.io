@@ -92,8 +92,13 @@ body{
     position:absolute;
     top:540px;
     left:60px;
+    transition:0.25s ease;
 }
-
+.blackandwhite:hover{
+    background-color:white;
+    top:100px;
+    left:100px;
+}
 
 
 .yellow{

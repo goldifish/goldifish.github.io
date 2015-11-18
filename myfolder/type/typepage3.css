@@ -128,8 +128,8 @@ body{
     background-color: #FD00FF;
     top:580px;
     left:100px;
-    width: 20px;
-    height:80px;
+    width: 80px;
+    height:20px;
 }
 
 
@@ -149,17 +149,17 @@ body{
     left:100px;
     transform:rotate(90deg);
 }
-
-
-
-
-
-
-.f1{
+.pink1{
     position:absolute;
-    top:560px;
+    background-color: #FD00FF;
+    top:480px;
     left:140px;
+    width: 20px;
+    height:80px;
 }
+
+
+
 
 .red{
     position:absolute;
@@ -176,39 +176,29 @@ body{
 }
 .rrr{
     position:absolute;
-    top:540px;
+    top:40px;
     left:220px;
     transform:rotate(90deg);
 }
 
+
 .zyellow2{
     position:absolute;
-    top:500px;
-    left:180px;
-}
-
-.zyellow3{
-    position:absolute;
     top:580px;
-    left:300px;
+    left:330px;
     transform:rotate(90deg);
 }
 .bbb1{
     position:absolute;
-    top:600px;
+    top:580px;
     left:340px;
     transform:rotate(180deg);
 }
-.rrr1{
-    position:absolute;
-    top:520px;
-    left:160px;
-    transform:rotate(90deg);
-}
+
 .bbb2{
     position:absolute;
     top:480px;
-    left:140px;
+    left:280px;
     transform:rotate(90deg);
 }
 .zyellow4{
@@ -231,12 +221,7 @@ body{
     position:absolute;
     top:220px;
 }
-.f3{
-    position:absolute;
-    top:220px;
-    left:20px;
-    transform:rotate(270deg);
-}
+
 .zgreen3{
     position:absolute;
     top:140px;

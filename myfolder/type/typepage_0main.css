@@ -13,7 +13,33 @@ body{
     border:2px solid #ffffff;
     width:235px;
 }
-
+.back{
+    position:relative;
+}
+.purple{
+    position:absolute;
+    background-color: #9600FF;
+    width: 60px;
+    height:20px;
+    top:20px;
+    left:0px;
+}
+.purplebottom{
+    position:absolute;
+    top:0px;
+    left:20px;
+    width:20px;
+}
+.f{
+    position:absolute;
+    top:0px;
+    left:80px;
+}
+.f1{
+    position:absolute;
+    top:0px;
+    left:80px;
+}
 
 .container{
     position:absolute;
@@ -244,11 +270,6 @@ body{
     left:360px;
     width:20px;
 }
-/*.f{*/
-/*    position:absolute;*/
-/*    top:80px;*/
-/*    left:340px;*/
-/*}*/
 
 /*-----------------purple-----------------------*/
 

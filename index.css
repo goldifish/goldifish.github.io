@@ -1,17 +1,19 @@
-.HYJK {
-    /*background-color: #5f00f6;*/
+.HYJK{
+    color:#507267;
     font-family: sans-serif;
     font-size: 40px;
     text-align: center;
 }
-.studio {
+.studio{
+    color:#507267;
     font-family: sans-serif;
     font-size: 30px;
     text-align: left;
     font-weight: bold;
     margin-left: 580px;
 }
-.Lab {
+.Lab{
+    color:#507267;
     font-family: sans-serif;
     font-size: 30px;
     text-align: left;

@@ -39,11 +39,12 @@ body{
     left:20px;
 }
 .zyellow0{
+    position:absolute;
     top:80px;
     left:80px;
 }
 .info{
-    position:absolute;
+    position:fixed;
     top:500px;
     left:800px;
     font-family:helvetica;

@@ -34,17 +34,19 @@ body{
     height:40px;
 }
 .bluebottom0{
+    position:absolute;
     width:40px;
     height:20px;
     top:20px;
     left:20px;
 }
 .bbb0{
+    position:absolute;
     top:80px;
     left:80px;
 }
 .info{
-    position:absolute;
+    position:fixed;
     top:500px;
     left:800px;
     font-family:helvetica;

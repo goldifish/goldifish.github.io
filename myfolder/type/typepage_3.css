@@ -34,16 +34,18 @@ body{
     height:40px;
 }
 .greenbottom0{
+    position:absolute;
     top:20px;
     left:20px;
 }
 .zgreen0{
+    position:absolute;
     top:80px;
     left:80px;
 }
 
 .info{
-    position:absolute;
+    position:fixed;
     top:500px;
     left:800px;
     font-family:helvetica;

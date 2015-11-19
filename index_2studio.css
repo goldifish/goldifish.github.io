@@ -5,15 +5,17 @@
     text-align: center;
 }
 .studio{
+    font-size:30px;
+}
+.studio a{
+    margin-left:580px;
     color:#507267;
     font-family: sans-serif;
-    font-size: 30px;
     text-align: left;
     font-weight: bold;
-    margin-left: 580px;
 }
+
 .space{
-    color:#507267;
     font-family: sans-serif;
     font-size: 15px;
     text-align: left;
@@ -21,7 +23,6 @@
     margin-left: 0px;
 }
 .typeface{
-    color:#507267;
     font-family: sans-serif;
     font-size: 15px;
     font-weight: bold;

@@ -43,7 +43,7 @@ var pattern = ["p_01.jpg", "p_02.jpg", "p_03.jpg", "p_04.jpg", "p_05.jpg", "p_06
 
 // // })
 
-var randomCat = pattern[Math.floor(Math.random()*10)];
+var randomCat = pattern[Math.floor(Math.random()*11)];
 
 $('body').css('background-image', 'url(' + randomCat + ')');
 })

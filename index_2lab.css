@@ -1,0 +1,47 @@
+.HYJK{
+    color:#507267;
+    font-family: sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+.lab{
+    font-size:30px;
+}
+.lab a{
+    color:#507267;
+    font-family: sans-serif;
+    text-align: left;
+    font-weight: bold;
+    margin-left:780px;
+}
+
+.rainbow{
+    font-family: sans-serif;
+    font-size: 15px;
+    text-align: left;
+    font-weight: bold;
+    margin-left: 0px;
+}
+.archive{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-align:left;
+    margin-left:0px;
+}
+.jquery{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-align:left;
+    margin-left:0px;
+}
+.pattern{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-align:left;
+    margin-left:0px;
+}
+
+    

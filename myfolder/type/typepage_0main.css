@@ -13,9 +13,18 @@ body{
     border:2px solid #ffffff;
     width:235px;
 }
-.back{
-    position:relative;
-}
+/*.pattern{*/
+/*    width: 70px;*/
+/*    height: 70px;*/
+/*    margin: 0 auto;*/
+/*    margin-top: 50px;*/
+/*}*/
+/*.pattern1{*/
+/*    width: 70px;*/
+/*    height: 70px;*/
+/*    margin: 0 auto;*/
+/*    margin-top: 50px;*/
+/*}*/
 .purple{
     position:absolute;
     background-color: #9600FF;

@@ -4,24 +4,59 @@
     font-size: 40px;
     text-align: center;
 }
+/*.studio{*/
+/*    font-size:30px;*/
+/*}*/
+/*.studio a{*/
+/*    margin-left:580px;*/
+/*    color:#507267;*/
+/*    font-family: sans-serif;*/
+/*    text-align: left;*/
+/*    font-weight: bold;*/
+/*}*/
 
-.studio a{
-    margin-left:580px;
-    color:#507267;
+.centered {
+    margin: 0 auto;
+    position: absolute;
+    top:40%;
+    left: 30%;
+    /*display:inline-block;*/
+}
+div a {
+    /*alignment-adjust: center;*/
     font-family: sans-serif;
-    font-size: 30px;
-    text-align: left;
-    font-weight: bold;
+    background-color:black;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    display:inline-block;
+}
+.interaction{
+    font-size:40px;
+}
+.studio{
+    font-size:30px;
+}
+.lab{
+    font-size:30px;
 }
 
-.Lab a{
-    position:absolute;
-    color:#507267;
-    font-family: sans-serif;
-    font-size: 30px;
-    text-align: left;
-    font-weight: bold;
-    margin-top:-35px;
-    margin-left:780px;
+ul {
+  display: inline;
+  padding: 0;
 }
-    
+ul li {display: inline-block;}
+ul li:hover {background: #555;}
+ul li:hover ul {display: block;}
+ul li ul {
+  position: absolute;
+  width: 200px;
+  display: none;
+}
+ul li ul li { 
+  background: #507267;; 
+  display: block; 
+}
+ul li ul li a {display:block !important;} 
+ul li ul li:hover {background: #666;}

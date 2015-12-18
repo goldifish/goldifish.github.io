@@ -5,17 +5,13 @@
     display:block;
     text-align:center;
 }
-.next{
-    font-size:160%;
-}
-
 
 h4{
     font-family:univers;
     position:absolute;
     margin:0;
     padding:0;
-    display:inline-block;
+    display:none;
 }
 .ws1{
     top:50%;
@@ -25,35 +21,18 @@ h4{
     top:53%;
     left:70%;
 }
-.ss3{
+.ws3{
     top:56%;
     left:70%;
 }
-.ss4{
+.ws4{
     top:59%;
     left:70%;
 }
-.ss5{
+.ws5{
     top:62%;
     left:70%;
 }
-.ss6{
-    top:65%;
-    left:70%;
-}
-.ss7{
-    top:68%;
-    left:70%;
-}
-.ss8{
-    top:71%;
-    left:70%;
-}
-.ss9{
-    top:74%;
-    left:70%;
-}
-
 
 
 /*---------------img-------------------------*/
@@ -63,43 +42,37 @@ h4{
     padding:0;
     display:inline-block;
 }
-.cloud1{
-    top:15%;
-    left:30%;
-}
-.cloud2{
-    top:20%;
-    left:45%;
-}
-.cloud3{
-    top:18%;
-    left:65%;
-}
-.cloud4{
-    top:22%;
+
+
+/*---------------window-------------------------*/
+
+.window1{
+    top:85%;
     left:18%;
 }
-.sun1{
-   top:15%;
-   left:10%;
-}
-.tree{
-   top:60%;
-   left:18%;
-}
-.bird{
-   top:60%;
-   left:18%;
-}
-.melody{
-   top:55%;
-   left:30%;
-}
-.lf{
-    top:40%;
-    left:40%;
-}
-.lf1{
+
+.window2{
     top:30%;
-    left:30%;
+    left:45%;
 }
+.window3{
+    top:50%;
+    left:60%;
+}
+.window4{
+    top:20%;
+    left:85%;
+}
+.window5{
+    top:15%;
+    left:10%;
+}
+.window6{
+    top:60%;
+    left:33%;
+}
+.window7{
+    top:80%;
+    left:77%;
+}
+

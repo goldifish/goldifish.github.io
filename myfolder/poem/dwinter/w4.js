@@ -1,18 +1,77 @@
-// $('.cloud1').hide();
+var spring = ['window.png','white.png','early.png','years.png','snow.png']
 
-var array = ['.s1-a1','.s1-a2','.s1-a3','.s1-a4'];
+var count = 1;
+
+$('.base').html("<img src =" + '"window.png"' + "/>");
+$('.ws1').show()
+$('.base').click(function() {
+  if (count == 0) {
+    $('.ws5').hide()
+    $('.base').html("<img src =" + '"window.png"' + "/>");
+    $('.ws1').show()
+    count = count + 1;
+  } else if (count == 1){
+    $('.ws1').hide()
+    $('.base').html("<img src =" + '"white.png"' + "/>");
+    $('.ws2').show()
+    count = count + 1;
+  } else if (count == 2) {
+    $('.ws2').hide()
+    $('.base').html("<img src =" + '"early.png"' + "/>");
+    $('.ws3').show()
+    console.log(count);
+    count = count + 1;
+  } else if (count == 3) {
+    $('.ws3').hide()
+    $('.base').html("<img src =" + '"years.png"' + "/>");
+    $('.ws4').show()
+    count = count + 1;
+    // count = 0;
+  } else if (count == 4) {
+    $('.ws4').hide()
+    $('.base').html("<img src =" + '"snow.png"' + "/>");
+    $('.ws5').show()
+    count = count + 1;
+    count = 0;
+  }
+})
 
 
-var random;
 
-var randomSpring1 = function(){
-    random = array[Math.floor(Math.random()*array.length)];
-    return random;
-}
-console.log(randomSpring1());
+// var winter = ['window.png','white.png','early.png','years.png','snow.png']
 
-$(randomSpring1()).hide();
+// var count = 1;
 
-// $('.next').click(function(){
-//     $(randomSpring1()).hide();
+// $('.base').html("<img src =" + '"window.png"' + "/>");
+// $('.ws1').show()
+// $('.base').click(function() {
+//   if (count == 0) {
+//     $('.ws5').hide()
+//     $('.base').html("<img src =" + '"window.png"' + "/>");
+//     $('.ws1').show()
+//     count = count + 1;
+//   } else if (count == 1){
+//     $('.ws1').hide()
+//     $('.base').html("<img src =" + '"white.png"' + "/>");
+//     $('.ws2').show()
+//     count = count + 1;
+//   } else if (count == 2) {
+//     $('.ws2').hide()
+//     $('.base').html("<img src =" + '"early.png"' + "/>");
+//     $('.ws3').show()
+//     console.log(count);
+//     count = count + 1;
+//   } else if (count == 3) {
+//     $('.ws3').hide()
+//     $('.base').html("<img src =" + '"years.png"' + "/>");
+//     $('.ws4').show()
+//     count = count + 1;
+//     // count = 0;
+//   } else if (count == 4) {
+//     $('.ws4').hide()
+//     $('.base').html("<img src =" + '"snow.png"' + "/>");
+//     $('.ws5').show()
+//     count = count + 1;
+//     count = 0;
+//   }
 // })

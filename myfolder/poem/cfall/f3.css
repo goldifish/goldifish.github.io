@@ -1,0 +1,144 @@
+.button{
+    top:-10%;
+    margin:0;
+    padding:0;
+    display:block;
+    text-align:center;
+}
+.next{
+    font-size:160%;
+}
+
+
+h4{
+    font-family:univers;
+    position:absolute;
+    margin:0;
+    padding:0;
+    display:inline-block;
+}
+.fs1{
+    top:50%;
+    left:70%;
+}
+.fs2{
+    top:53%;
+    left:70%;
+}
+.fs3{
+    top:56%;
+    left:70%;
+}
+.fs4{
+    top:59%;
+    left:70%;
+}
+.fs5{
+    top:62%;
+    left:70%;
+}
+.fs6{
+    top:65%;
+    left:70%;
+}
+.fs7{
+    top:68%;
+    left:70%;
+}
+.fs8{
+    top:71%;
+    left:70%;
+}
+
+
+
+
+/*---------------img-------------------------*/
+.fw{
+    position:absolute;
+    margin:0;
+    padding:0;
+    display:inline-block;
+}
+.cloud1{
+    top:15%;
+    left:30%;
+}
+.cloud2{
+    top:20%;
+    left:45%;
+}
+.cloud3{
+    top:18%;
+    left:65%;
+}
+.cloud4{
+    top:22%;
+    left:18%;
+}
+.cloud5{
+    top:15%;
+    left:30%;
+}
+.cloud6{
+    top:20%;
+    left:45%;
+}
+.cloud7{
+    top:18%;
+    left:65%;
+}
+.cloud8{
+    top:22%;
+    left:18%;
+}
+.leave1{
+   top:30%;
+   left:15%;
+}
+.leave2{
+   top:28%;
+   left:25%;
+}
+.leave3{
+   top:55%;
+   left:17%;
+}
+.leave4{
+   top:50%;
+   left:17%;
+}
+.leave5{
+   top:95%;
+   left:17%;
+}
+.leave6{
+   top:95%;
+   left:17%;
+}
+.sun1{
+   top:15%;
+   left:10%;
+}
+
+
+.tree{
+   top:60%;
+   left:18%;
+}
+.bird{
+   top:60%;
+   left:18%;
+}
+.melody{
+   top:55%;
+   left:30%;
+}
+.lf{
+    top:40%;
+    left:40%;
+}
+.lf1{
+    top:30%;
+    left:30%;
+}

@@ -1,0 +1,127 @@
+.button{
+    top:-10%;
+    margin:0;
+    padding:0;
+    display:block;
+    text-align:center;
+}
+.next{
+    font-size:160%;
+}
+
+
+h4{
+    font-family:univers;
+    position:absolute;
+    margin:0;
+    padding:0;
+    display:inline-block;
+}
+.us1{
+    top:50%;
+    left:70%;
+}
+.us2{
+    top:53%;
+    left:70%;
+}
+.us3{
+    top:56%;
+    left:70%;
+}
+.us4{
+    top:59%;
+    left:70%;
+}
+.us5{
+    top:62%;
+    left:70%;
+}
+.us6{
+    top:65%;
+    left:70%;
+}
+.us7{
+    top:68%;
+    left:70%;
+}
+
+
+
+/*---------------img-------------------------*/
+
+.uw{
+    position:absolute;
+    margin:0;
+    padding:0;
+    display:inline-block;
+}
+/*.cloud1{*/
+/*    top:15%;*/
+/*    left:30%;*/
+/*}*/
+/*.cloud2{*/
+/*    top:20%;*/
+/*    left:45%;*/
+/*}*/
+/*.cloud3{*/
+/*    top:18%;*/
+/*    left:65%;*/
+/*}*/
+/*.sun1{*/
+/*   top:15%;*/
+/*   left:10%;*/
+/*}*/
+/*.ice{*/
+/*   top:82%;*/
+/*   left:77%;*/
+/*}*/
+/*.car{*/
+/*   top:80%;*/
+/*   left:70%;*/
+/*}*/
+/*.car1{*/
+/*   top:80%;*/
+/*   left:50%;*/
+/*}*/
+/*.smk{*/
+/*    top:82%;*/
+/*    left:66%;*/
+/*}*/
+/*.car2{*/
+/*   top:80%;*/
+/*   left:30%;*/
+/*}*/
+/*.smk1{*/
+/*    top:82%;*/
+/*    left:46%;*/
+/*}*/
+/*.ocean{*/
+/*    top:80%;*/
+/*    left:0%;*/
+/*}*/
+/*.cloud4{*/
+/*    top:15%;*/
+/*    left:30%;*/
+/*}*/
+/*.cloud5{*/
+/*    top:20%;*/
+/*    left:45%;*/
+/*}*/
+/*.cloud6{*/
+/*    top:18%;*/
+/*    left:65%;*/
+/*}*/
+/*.cloud7{*/
+/*    top:22%;*/
+/*    left:18%;*/
+/*}*/
+
+/*.rain{*/
+/*    top:27%;*/
+/*    left:20%;*/
+/*}*/
+/*.rain1{*/
+/*    top:27%;*/
+/*    left:20%;*/
+/*}*/
